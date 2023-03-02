@@ -1,0 +1,15 @@
+{
+  "name": "mars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha --no-timeouts"
+  },
+  "author": "Kevin Huang",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
